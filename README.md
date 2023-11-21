@@ -1,5 +1,7 @@
 Anna Vrbaski 101182246 A4 Q1
 
+VIDEO LINK: (https://youtu.be/7I8A_NyhqEE)
+
 SetUp:
     - need to first create a new database
     - change the params of the databse connection where
